@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OT Note</string>
+    <string name="btnRegister">Đăng ký</string>
+    <string name="btnLogin">Đăng nhập</string>
+    <string name="contentDisciption">imageBG</string>
+    <string name="title_activity_login">Login</string>
+    <string name="logintext">ĐĂNG NHẬP</string>
+    <string name="userhint">Email</string>
+    <string name="passhint">Mật khẩu</string>
+    <string name="title_activity_register">Register</string>
+    <string name="registertext">ĐĂNG KÝ</string>
+    <string name="userinfo">Định danh</string>
+    <string name="btnAdd">ĐẶT GIỜ</string>
+    <string name="OTtoday">Hôm nay </string>
+    <string name="OTmonth">Đầu tháng đến giờ </string>
+    <string name="settimehint">nhập số giờ làm thêm</string>
+    <string name="btnSet">OK</string>
+    <string name="author">Tác giả : Ngô Văn Nguyên</string>
+    <string name="contact">Liên hệ : 0902183754</string>
+    <string name="logout">Thoát</string>
+
+</resources>

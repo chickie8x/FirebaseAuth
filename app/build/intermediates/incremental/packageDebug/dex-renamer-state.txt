@@ -1,0 +1,7 @@
+#Mon Jan 08 23:00:21 ICT 2018
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_45f47d9fbb85bd1c22a2574fe01bc732d8a38179
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cda2efe1fbb38d1260f6d03c7860d950d71fb905\\classes.dex
+base.1=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cda2efe1fbb38d1260f6d03c7860d950d71fb905
+file.0=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_45f47d9fbb85bd1c22a2574fe01bc732d8a38179\\classes.dex

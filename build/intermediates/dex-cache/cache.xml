@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cda2efe1fbb38d1260f6d03c7860d950d71fb905\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\c599befe239a1fe158267c33c15844aa38b87bee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_8e29edc41981c11e1486704d38cfea06c98ba52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\79cc7f236ecafa110927a0345c7ac67d3afea714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_df07d31095c650eed734f45cab84ad29389c4c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\79b2fa315b5d5c674916a1a0eef5f5b3bb6587d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_c3ec7194cdcb16213f86ba96eeae8e6edb1b5068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6648d9d14cfa13fd88b63c717ec1b2b2e5c5ee6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_f34ac306e6a1b7c223c483294ae2e6c5fb9e96bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5694ad84d146296763248cded6505995bb02eeb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_873db6c536baa381f8c1eca198d82097908fe747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e561efd2dba80018fbfbd3f4e1dcd3f9401e5685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_62dad2f042861cbccb9bdb1c0adf9bc60730491c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\129776dcf038ce0e964e1b9e3cb65eff7e8c4aac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_12717a087d7fe686088d513c4dca7828ecaf80e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\f777f6c469706bf15e1897cdc532e2423433670a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_0d920548fab03b12ade0578c59435b5b45711465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b0830ee944f5adb1f8d00be29f4046e4ede7dcaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_23781b4d71ab64ce3742831d75c4c29c088cbd09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\11348f275c4c134e767cdb43a4aedf3196b7405e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_37a4e941267b96244aaa73f842eee0c0ac6c1606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\4f06dc063cb27b5d77fd434e5f87a2e5fb962ee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd1ff651ddb8608e9c4037f3d9ab475e9472abb2">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_7562843e1eeb2b026c7b0acd8e2469deaef2d51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6cd0b2d2868df1cb8628f8e25de87e9ebf801d98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_fae1e44a951fc778dc01696e5c6ba3767a0d0a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\14d1464e68a507024cb0cc4e5de604da02638d1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\classes_693b456fbf8f5e42f9c534eac60148b5c74fb011.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c1937787ae3d8f0bfff67ed7e91a6386bcb0c5e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45f47d9fbb85bd1c22a2574fe01bc732d8a38179\classes.dex" />
+    </item>
+
+</items>
