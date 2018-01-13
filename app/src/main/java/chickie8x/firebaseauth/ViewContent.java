@@ -34,12 +34,12 @@ import java.util.Map;
 import java.util.Set;
 
 public class ViewContent extends AppCompatActivity implements View.OnClickListener{
+    public static String DATE;
     private String cDate;
     private String sDate;
     private String rDate;
     private Button btnAdd;
     private TextView identifierView;
-    public static String DATE;
     private String USERID;
     private TextView todayOT;
     private TextView monthOT;
@@ -75,6 +75,8 @@ public class ViewContent extends AppCompatActivity implements View.OnClickListen
                     extract[1] =month.toString();
                 }
                 sDate =extract[0]+"-"+extract[1]+"-"+extract[2];
+                String[] OTDate = MonthChanged(sDate);
+                DatabaseListening(USERID,OTDate[0],OTDate[1],OTDate[2]);
 
             }
         });
