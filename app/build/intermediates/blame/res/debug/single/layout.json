@@ -1,19 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Admin\\.android\\build-cache\\60f3de5260a58623496d2ed17d46ca53ef6bed2a\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Admin\\.android\\build-cache\\c599befe239a1fe158267c33c15844aa38b87bee\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Admin\\.android\\build-cache\\c599befe239a1fe158267c33c15844aa38b87bee\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\c599befe239a1fe158267c33c15844aa38b87bee\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",

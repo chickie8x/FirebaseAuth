@@ -133,10 +133,10 @@ public class ViewContent extends AppCompatActivity implements View.OnClickListen
                 if (map !=null){
                     String value =map.get(day);
                     todayOT.setText("Ngày "+day+"-"+month+"-"+year+" : " +value+" giờ");
-                    int sumValues=0;
+                    float sumValues=0;
                     Set<String> set = map.keySet();
                     for (String key:set){
-                        sumValues+=Integer.parseInt(map.get(key));
+                        sumValues+=Float.parseFloat(map.get(key));
                     }
                     monthOT.setText("Tổng tháng "+month +"-"+year +" :"+String.valueOf(sumValues)+" giờ");
 
