@@ -1,4 +1,4 @@
-#Sat Jan 13 20:53:12 ICT 2018
+#Thu Jan 18 21:31:21 ICT 2018
 base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
 renamed.0=classes.dex
 file.0=C\:\\Users\\Admin\\AndroidStudioProjects\\FirebaseAuth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

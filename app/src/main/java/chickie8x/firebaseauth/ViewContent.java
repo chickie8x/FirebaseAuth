@@ -5,6 +5,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
+import android.provider.Settings;
 import android.support.annotation.NonNull;
 import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
@@ -100,7 +101,11 @@ public class ViewContent extends AppCompatActivity implements View.OnClickListen
         identifierView=(TextView)findViewById(R.id.identifier);
         identifierView.setText("ID : "+identifier);
         Calendar calendar = Calendar.getInstance();
-        calendar.add(Calendar.DAY_OF_YEAR,1);
+        calendar.setTimeInMillis(System.currentTimeMillis());
+        int curHr = calendar.get(Calendar.HOUR_OF_DAY);
+        if (curHr>=13){
+            calendar.add(Calendar.DAY_OF_YEAR,1);
+        }
         calendar.set(Calendar.HOUR_OF_DAY,16);
         calendar.set(Calendar.MINUTE,20);
         calendar.set(Calendar.SECOND,0);
